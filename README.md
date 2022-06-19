@@ -1,5 +1,5 @@
-# Dasafio-Dio-Git-Hub-respositorio-1
+# Dasafio-Dio-Git-Hub-respositório-1
 Repositório criado para o Desafio de projeto sobre Git/GitHub.
 
 ## Links Úteis
-[Sintaxe Basica Markdown](https://www.markdownguide.org)
+[Sintaxe Básica Markdown](https://www.markdownguide.org)
