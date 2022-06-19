@@ -1,2 +1,2 @@
-# Dasafio-Dio-Git-Hub-resposit-rio-1
+# Dasafio-Dio-Git-Hub-respositorio-1
 Desafio de projeto sobre Git/GitHub
