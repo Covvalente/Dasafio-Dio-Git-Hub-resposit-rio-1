@@ -5,3 +5,4 @@ Repositório criado para o Desafio de projeto sobre Git/GitHub.
 
 * comando git push
 * comando git pull
+* comando git fetch
